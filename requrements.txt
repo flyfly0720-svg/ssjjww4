@@ -1,7 +1,6 @@
-
-streamlit>=1.60.0
-pandas>=2.0.0
-numpy>=1.26.0
-plotly>=6.0.0
-lifelines>=0.30.0
-scipy>=1.11.0
+streamlit
+pandas
+numpy
+plotly
+lifelines
+scipy
